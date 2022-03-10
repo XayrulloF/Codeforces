@@ -1,3 +1,5 @@
+#1
+
 A. Watermelon
 time limit per test1 second
 memory limit per test64 megabytes
@@ -20,4 +22,3 @@ output
 YES
 Note
 For example, the boys can divide the watermelon into two parts of 2 and 6 kilos respectively (another variant — two parts of 4 and 4 kilos).
-
